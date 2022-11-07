@@ -14,6 +14,7 @@
 		44B0F64C2908287300C012F9 /* GamersTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B0F64B2908287300C012F9 /* GamersTests.swift */; };
 		44B0F6562908287300C012F9 /* GamersUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B0F6552908287300C012F9 /* GamersUITests.swift */; };
 		44B0F6582908287300C012F9 /* GamersUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44B0F6572908287300C012F9 /* GamersUITestsLaunchTests.swift */; };
+		44C8270E29141BE5001C4A0F /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 44C8270D29141BE5001C4A0F /* Home.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +45,7 @@
 		44B0F6512908287300C012F9 /* GamersUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GamersUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		44B0F6552908287300C012F9 /* GamersUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamersUITests.swift; sourceTree = "<group>"; };
 		44B0F6572908287300C012F9 /* GamersUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GamersUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		44C8270D29141BE5001C4A0F /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				44B0F63A2908287000C012F9 /* GamersApp.swift */,
+				44C8270D29141BE5001C4A0F /* Home.swift */,
 				44B0F63C2908287000C012F9 /* ContentView.swift */,
 				44B0F63E2908287300C012F9 /* Assets.xcassets */,
 				44B0F6402908287300C012F9 /* Preview Content */,
@@ -258,6 +261,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				44B0F63D2908287000C012F9 /* ContentView.swift in Sources */,
+				44C8270E29141BE5001C4A0F /* Home.swift in Sources */,
 				44B0F63B2908287000C012F9 /* GamersApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
